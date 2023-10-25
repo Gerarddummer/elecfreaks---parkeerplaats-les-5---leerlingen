@@ -1,18 +1,11 @@
 
-> Open deze pagina op [https://gerarddummer.github.io/elecfreaks---parkeerplaats-les-5---leerlingen/](https://gerarddummer.github.io/elecfreaks---parkeerplaats-les-5---leerlingen/)
+# My Tutorial
 
-## Tutorial
-* [tutorialLes5](/tutorialLes05) [start](https://makecode.microbit.org/#tutorial:github:gerarddummer/elecfreaks---parkeerplaats-les-5---leerlingen/tutorialLes05)
+## Step 1
 
-## Dit project bewerken
+Zet het blok Stel auto's binnen op de juiste plek
 
-Om deze repository te bewerken in MakeCode.
+## Step 2
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Importeren** en klik vervolgens op **Importeer URL**
-* plak **https://github.com/gerarddummer/elecfreaks---parkeerplaats-les-5---leerlingen** en klik op importeren
-
-#### Metadata (gebruikt voor zoeken, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Congratulations, you did it!
+ 
