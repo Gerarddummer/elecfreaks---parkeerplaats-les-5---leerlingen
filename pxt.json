@@ -1,5 +1,6 @@
 {
     "name": "Elecfreaks - parkeerplaats Les 5 - Leerlingen - Kopiëren - Kopiëren",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
