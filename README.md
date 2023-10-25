@@ -1,14 +1,8 @@
 
 > Open deze pagina op [https://gerarddummer.github.io/elecfreaks---parkeerplaats-les-5---leerlingen/](https://gerarddummer.github.io/elecfreaks---parkeerplaats-les-5---leerlingen/)
 
-## Gebruiken als extensie
-
-Deze repository kan worden toegevoegd als **extensie** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik op **Nieuw project**
-* klik op **Extensies** onder het tandwielmenu
-* zoeken naar **https://github.com/gerarddummer/elecfreaks---parkeerplaats-les-5---leerlingen** en importeren
+## Tutorial
+* [tutorial](/tutorial)
 
 ## Dit project bewerken
 
