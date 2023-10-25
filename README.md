@@ -2,7 +2,7 @@
 > Open deze pagina op [https://gerarddummer.github.io/elecfreaks---parkeerplaats-les-5---leerlingen/](https://gerarddummer.github.io/elecfreaks---parkeerplaats-les-5---leerlingen/)
 
 ## Tutorial
-* [tutorial](/tutorialLes05)
+* [tutorial Les 5](/tutorialLes05)
 
 ## Dit project bewerken
 
